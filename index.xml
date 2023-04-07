@@ -33,6 +33,96 @@
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Fri, 07 Apr 2023 15:12:01 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;p&gt;Markdown — язык разметки текстов. Такие тексты легко писать и читать. Их можно без труда сконвертировать в HTML. Большинство программистов предпочитают Markdown для написания документации, описаний своих проектов, написания блогов и так далее.&lt;/p&gt;
+&lt;p&gt;Что это значит?&lt;/p&gt;
+&lt;p&gt;«Язык разметки» — это просто набор соглашений, правил.&lt;/p&gt;
+&lt;p&gt;Допустим, что вы общаетесь с другом по СМС. В них нельзя сделать текст жирным или наклонным. Вы договариваетесь с другом: если я пишу &lt;em&gt;что-то&lt;/em&gt; вот так между звездочками, то считай, что это наклонный текст. А если я пишу &lt;strong&gt;что-то&lt;/strong&gt; между двумя звездочками, то считай, что это жирный текст. Вы придумали правила.&lt;/p&gt;
+&lt;p&gt;Markdown — это набор подобных правил.&lt;/p&gt;
+&lt;p&gt;Правила понятны разным программам и сайтам. Например, «Вопросы и ответы» в уроках на Хекслете поддерживают Markdown. Это значит, что вы можете писать туда тексты по правилам Markdown, а после нажатия «Отправить» разметка станет реальной: текст в одинарных звездочках станет наклонным, текст в двойных звездочках станет жирным и так далее. Это конвертация из Markdown в HTML.
+Зачем это нужно?&lt;/p&gt;
+&lt;p&gt;Для добавления разметки туда, где невозможна реальная разметка. Например, в простом текстовом файле или в тех же СМС, где невозможно выделение жирным, создание заголовков, выделение цитат и пр.
+Для более удобного написания текстов для последующей конвертации в HTML или другие форматы.&lt;/p&gt;
+&lt;p&gt;Синтаксис Markdown&lt;/p&gt;
+&lt;p&gt;Это краткий справочник основных элементов синтаксиса Markdown. Единого стандарта не существует и разные версии Markdown могут отличаться в деталях. Но базовые элементы из списка ниже поддерживаются во всех стандартах.
+Выделение текста&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Этот текст будет наклонным (курсив)&lt;/em&gt;
+&lt;em&gt;Этот текст будет наклонным (курсив)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Этот текст будет жирным&lt;/strong&gt;
+&lt;strong&gt;Этот текст будет жирным&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Можно &lt;strong&gt;вставлять&lt;/strong&gt; один тип в другой&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ссылки&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexlet.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hexlet.io&lt;/a&gt; — текст простой ссылки станет кликабельной ссылкой автоматически&lt;/p&gt;
+&lt;p&gt;Ссылкой можно сделать любой текст:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexlet.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Это ссылка на Хекслет&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Цитата&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Это мудрая цитата
+Мудрого человека.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Картинки&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/assets/images/markdown/markdown.png&#34; alt=&#34;Это опциональный alt-текст&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Списки&lt;/p&gt;
+&lt;p&gt;Непронумерованный список:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Пункт&lt;/li&gt;
+&lt;li&gt;Еще один пункт
+&lt;ul&gt;
+&lt;li&gt;Подпункт&lt;/li&gt;
+&lt;li&gt;Еще один подпункт&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пронумерованный список:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Пункт&lt;/li&gt;
+&lt;li&gt;Еще один пункт&lt;/li&gt;
+&lt;li&gt;Подпункт&lt;/li&gt;
+&lt;li&gt;Еще один подпункт&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;В пронумерованном списке можно использовать любые числа — это не важно. При конвертации в HTML или другой формат числа станут правильными и последовательными (1, 2, 3 и т.д.).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>https://example.com/post/week-2/</link>
+      <pubDate>Fri, 07 Apr 2023 14:46:32 +0300</pubDate>
+      <guid>https://example.com/post/week-2/</guid>
+      <description>&lt;p&gt;Эта неделя выдалась у меня насыщенной.&lt;/p&gt;
+&lt;p&gt;В понедельник я делала лабораторную работу.&lt;/p&gt;
+&lt;p&gt;Во вторник я готовилась к контрольной работе по математической логике.&lt;/p&gt;
+&lt;p&gt;В среду я помогала однокурснику с конкурсом.&lt;/p&gt;
+&lt;p&gt;В четверг я гуляла.&lt;/p&gt;
+&lt;p&gt;В пятницу делала лабораторные работы.&lt;/p&gt;
+&lt;p&gt;На выходных планирую спать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My_week</title>
       <link>https://example.com/post/my_week/</link>
       <pubDate>Fri, 17 Mar 2023 20:18:17 +0300</pubDate>
@@ -263,7 +353,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-496378152&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-461297358&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -273,7 +363,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-496378152&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-461297358&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
