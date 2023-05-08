@@ -5,12 +5,45 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Apr 2023 23:02:42 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 15:29:14 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://example.com/post/programming/</link>
+      <pubDate>Mon, 08 May 2023 15:29:14 +0300</pubDate>
+      <guid>https://example.com/post/programming/</guid>
+      <description>&lt;p&gt;Bash&lt;/p&gt;
+&lt;p&gt;Сценарии командной оболочки Unix, созданные Кеном Томпсоном в начале 1970-х годов, тесно связаны с языком программирования C. Bash — обновленная оболочка Unix — была впервые выпущена в конце 80-х годов и до сих пор активно разрабатывается. На Bash обычно пишутся сценарии конфигурации сервера, поэтому это хороший выбор для работы в современных облачных средах с контейнерным хранением и микросервисами. Скрипты командной оболочки используются достаточно часто, так что знание этого языка пригодится.&lt;/p&gt;
+&lt;p&gt;Также стоит обратить внимание на zsh, который в настоящее время является оболочкой по умолчанию в macOS.&lt;/p&gt;
+&lt;p&gt;Области применения: администрирование сервера, инструменты интерфейса командной строки, DevOps, виртуализация.&lt;/p&gt;
+&lt;p&gt;C/C++&lt;/p&gt;
+&lt;p&gt;Эти языки часто занимают вершины различных рейтингов — их ценят за мощность и быстродействие. C был создан в начале 1970-х годов Деннисом Ритчи, C ++ в 1985 году разработал Бьёрн Страуструп. Сегодня два этих языка лежат в основе всего: от ОС и игр до современных научных вычислений и машинного обучения. C и C++ хорошо подходят для требовательных приложений, которым важны низкоуровневый доступ к оборудованию и производительность. Для освоения этих языков нужно время и определенные усилия.&lt;/p&gt;
+&lt;p&gt;Область применения: разработка ОС / SDK, встроенные устройства, игровые движки, наука.&lt;/p&gt;
+&lt;p&gt;Java&lt;/p&gt;
+&lt;p&gt;Java — это ООП-язык общего назначения, разработанный в 1990-х годах Джеймсом Гослингом в Sun (сейчас принадлежит Oracle) и предназначенный для компиляции в байт-код для запуска на виртуальной машине Java. К 2020 году к ним относятся практически все виды устройств — от телевизоров и игровых приставок до серверов, телефонов и даже кухонных приборов. Язык широко распространен в корпорациях и университетах, что сделало его популярным как среди начинающих программистов, так и среди опытных разработчиков.&lt;/p&gt;
+&lt;p&gt;Области применения: корпоративные приложения, встроенные системы, веб-сервисы, игры.&lt;/p&gt;
+&lt;p&gt;PowerShell&lt;/p&gt;
+&lt;p&gt;PowerShell был разработан Microsoft в 2006 году для предоставления Unix-подобных функций интерфейса командной строки в Windows. Позже он был выпущен с открытым исходным кодом и портирован на macOS, CentOS и Ubuntu. PowerShell широко применяется в системах, использующих Windows Server и другие технологии Microsoft: он делает администрирование удобнее и снижает затраты на обслуживание.&lt;/p&gt;
+&lt;p&gt;Области применения: системное администрирование Windows, интерфейс командной строки, скрипты, обслуживание.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week4</title>
+      <link>https://example.com/post/week4/</link>
+      <pubDate>Mon, 08 May 2023 15:28:53 +0300</pubDate>
+      <guid>https://example.com/post/week4/</guid>
+      <description>&lt;p&gt;На эту неделю выпали майские праздники.&lt;/p&gt;
+&lt;p&gt;В понедельник я уехала домой.&lt;/p&gt;
+&lt;p&gt;Всю неделю ничего не делала, только кушала.&lt;/p&gt;
+&lt;p&gt;Встретилась со всеми друзьями, отдохнула.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week3</title>
@@ -383,7 +416,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-617924358&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-278193456&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -393,7 +426,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-617924358&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-278193456&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
