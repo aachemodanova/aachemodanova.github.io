@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 15:29:14 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 18:20:03 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,23 +13,46 @@
     </image>
     
     <item>
+      <title>Language</title>
+      <link>https://example.com/post/language/</link>
+      <pubDate>Mon, 08 May 2023 18:20:03 +0300</pubDate>
+      <guid>https://example.com/post/language/</guid>
+      <description>&lt;p&gt;C++ (pronounced c-plus-plus) is a compiled, statically typed, general-purpose programming language.&lt;/p&gt;
+&lt;p&gt;Supports such programming paradigms as procedural programming, object-oriented programming, generic programming. The language has a rich standard library that includes common containers and algorithms, I/O, regular expressions, multithreading support, and more. C++ combines features of both high-level and low-level languages. In comparison with its predecessor - the C language - the greatest attention is paid to support for object-oriented and generic programming.&lt;/p&gt;
+&lt;p&gt;C++ is widely used for software development, being one of the most popular programming languages. Its scope includes the creation of operating systems, various application programs, device drivers, applications for embedded systems, high-performance servers, and computer games. There are many implementations of the C++ language, both free and commercial, and for various platforms. For example, on the x86 platform, these are GCC, Visual C++, Intel C++ Compiler, Embarcadero (Borland) C++ Builder, and others. C++ has had a huge impact on other programming languages, most notably Java and C#.&lt;/p&gt;
+&lt;p&gt;The syntax of C++ is inherited from the C language. Originally, one of the design principles was to maintain compatibility with C. However, C++ is not strictly a superset of C; The set of programs that can be translated equally well by both C and C++ compilers is quite large, but does not include all possible C programs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week5</title>
+      <link>https://example.com/post/week5/</link>
+      <pubDate>Mon, 08 May 2023 18:19:20 +0300</pubDate>
+      <guid>https://example.com/post/week5/</guid>
+      <description>&lt;p&gt;The week was good.&lt;/p&gt;
+&lt;p&gt;I was at a concert and in the park, ate ice cream, rode rides.&lt;/p&gt;
+&lt;p&gt;Almost completed the first course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>https://example.com/post/programming/</link>
       <pubDate>Mon, 08 May 2023 15:29:14 +0300</pubDate>
       <guid>https://example.com/post/programming/</guid>
-      <description>&lt;p&gt;Bash&lt;/p&gt;
-&lt;p&gt;Сценарии командной оболочки Unix, созданные Кеном Томпсоном в начале 1970-х годов, тесно связаны с языком программирования C. Bash — обновленная оболочка Unix — была впервые выпущена в конце 80-х годов и до сих пор активно разрабатывается. На Bash обычно пишутся сценарии конфигурации сервера, поэтому это хороший выбор для работы в современных облачных средах с контейнерным хранением и микросервисами. Скрипты командной оболочки используются достаточно часто, так что знание этого языка пригодится.&lt;/p&gt;
-&lt;p&gt;Также стоит обратить внимание на zsh, который в настоящее время является оболочкой по умолчанию в macOS.&lt;/p&gt;
-&lt;p&gt;Области применения: администрирование сервера, инструменты интерфейса командной строки, DevOps, виртуализация.&lt;/p&gt;
+      <description>&lt;p&gt;bash&lt;/p&gt;
+&lt;p&gt;Unix shell scripting, created by Ken Thompson in the early 1970s, is closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still under active development. Bash is typically scripted for server configuration, so it&amp;rsquo;s a good choice for modern cloud environments with containerized storage and microservices. Shell scripts are used quite often, so knowledge of this language is useful.&lt;/p&gt;
+&lt;p&gt;Also worth noting is zsh, which is currently the default shell on macOS.&lt;/p&gt;
+&lt;p&gt;Applications: server administration, CLI tools, DevOps, virtualization.&lt;/p&gt;
 &lt;p&gt;C/C++&lt;/p&gt;
-&lt;p&gt;Эти языки часто занимают вершины различных рейтингов — их ценят за мощность и быстродействие. C был создан в начале 1970-х годов Деннисом Ритчи, C ++ в 1985 году разработал Бьёрн Страуструп. Сегодня два этих языка лежат в основе всего: от ОС и игр до современных научных вычислений и машинного обучения. C и C++ хорошо подходят для требовательных приложений, которым важны низкоуровневый доступ к оборудованию и производительность. Для освоения этих языков нужно время и определенные усилия.&lt;/p&gt;
-&lt;p&gt;Область применения: разработка ОС / SDK, встроенные устройства, игровые движки, наука.&lt;/p&gt;
+&lt;p&gt;These languages often occupy the top of various ratings - they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed by Bjorn Stroustrup in 1985. Today, these two languages underpin everything from operating systems and games to modern scientific computing and machine learning. C and C++ are well suited for demanding applications that value low-level hardware access and performance. Learning these languages takes time and effort.&lt;/p&gt;
+&lt;p&gt;Scope: OS / SDK development, embedded devices, game engines, science.&lt;/p&gt;
 &lt;p&gt;Java&lt;/p&gt;
-&lt;p&gt;Java — это ООП-язык общего назначения, разработанный в 1990-х годах Джеймсом Гослингом в Sun (сейчас принадлежит Oracle) и предназначенный для компиляции в байт-код для запуска на виртуальной машине Java. К 2020 году к ним относятся практически все виды устройств — от телевизоров и игровых приставок до серверов, телефонов и даже кухонных приборов. Язык широко распространен в корпорациях и университетах, что сделало его популярным как среди начинающих программистов, так и среди опытных разработчиков.&lt;/p&gt;
-&lt;p&gt;Области применения: корпоративные приложения, встроенные системы, веб-сервисы, игры.&lt;/p&gt;
+&lt;p&gt;Java is a general-purpose OOP language developed in the 1990s by James Gosling at Sun (now owned by Oracle) and designed to be compiled into bytecode to run on the Java Virtual Machine. By 2020, this includes almost every kind of device, from TVs and game consoles to servers, phones and even kitchen appliances. The language is widely used in corporations and universities, which has made it popular among both novice programmers and experienced developers.&lt;/p&gt;
+&lt;p&gt;Applications: enterprise applications, embedded systems, web services, games.&lt;/p&gt;
 &lt;p&gt;PowerShell&lt;/p&gt;
-&lt;p&gt;PowerShell был разработан Microsoft в 2006 году для предоставления Unix-подобных функций интерфейса командной строки в Windows. Позже он был выпущен с открытым исходным кодом и портирован на macOS, CentOS и Ubuntu. PowerShell широко применяется в системах, использующих Windows Server и другие технологии Microsoft: он делает администрирование удобнее и снижает затраты на обслуживание.&lt;/p&gt;
-&lt;p&gt;Области применения: системное администрирование Windows, интерфейс командной строки, скрипты, обслуживание.&lt;/p&gt;
+&lt;p&gt;PowerShell was developed by Microsoft in 2006 to provide Unix-like command-line interface functionality on Windows. It was later released as open source and ported to macOS, CentOS and Ubuntu. PowerShell is widely used on systems that use Windows Server and other Microsoft technologies to make administration easier and reduce maintenance costs.&lt;/p&gt;
+&lt;p&gt;Applications: Windows system administration, command line interface, scripts, maintenance.&lt;/p&gt;
 </description>
     </item>
     
@@ -38,10 +61,10 @@
       <link>https://example.com/post/week4/</link>
       <pubDate>Mon, 08 May 2023 15:28:53 +0300</pubDate>
       <guid>https://example.com/post/week4/</guid>
-      <description>&lt;p&gt;На эту неделю выпали майские праздники.&lt;/p&gt;
-&lt;p&gt;В понедельник я уехала домой.&lt;/p&gt;
-&lt;p&gt;Всю неделю ничего не делала, только кушала.&lt;/p&gt;
-&lt;p&gt;Встретилась со всеми друзьями, отдохнула.&lt;/p&gt;
+      <description>&lt;p&gt;May holidays fell this week.&lt;/p&gt;
+&lt;p&gt;On Monday I went home.&lt;/p&gt;
+&lt;p&gt;I didn&amp;rsquo;t do anything all week, I just ate.&lt;/p&gt;
+&lt;p&gt;I met with all my friends, had a rest.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,13 +73,13 @@
       <link>https://example.com/post/week3/</link>
       <pubDate>Sun, 23 Apr 2023 23:02:42 +0300</pubDate>
       <guid>https://example.com/post/week3/</guid>
-      <description>&lt;p&gt;Эта неделя была у меня скучной.&lt;/p&gt;
-&lt;p&gt;В понедельник я делала лабораторную работу.&lt;/p&gt;
-&lt;p&gt;Во вторник я готовилась к коллоквиуму.&lt;/p&gt;
-&lt;p&gt;В среду я была в кино.&lt;/p&gt;
-&lt;p&gt;В четверг я гуляла.&lt;/p&gt;
-&lt;p&gt;В пятницу делала лабораторные работы.&lt;/p&gt;
-&lt;p&gt;На выходных участвовала в школе кураторов.&lt;/p&gt;
+      <description>&lt;p&gt;This week has been boring for me.&lt;/p&gt;
+&lt;p&gt;On Monday I did lab work.&lt;/p&gt;
+&lt;p&gt;On Tuesday I was preparing for the colloquium.&lt;/p&gt;
+&lt;p&gt;On Wednesday I went to the cinema.&lt;/p&gt;
+&lt;p&gt;On Thursday I walked.&lt;/p&gt;
+&lt;p&gt;I did lab work on Friday.&lt;/p&gt;
+&lt;p&gt;At the weekend I participated in the school of curators.&lt;/p&gt;
 </description>
     </item>
     
@@ -100,33 +123,33 @@
       <link>https://example.com/post/markdown/</link>
       <pubDate>Fri, 07 Apr 2023 15:12:01 +0300</pubDate>
       <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;p&gt;Markdown — язык разметки текстов. Такие тексты легко писать и читать. Их можно без труда сконвертировать в HTML. Большинство программистов предпочитают Markdown для написания документации, описаний своих проектов, написания блогов и так далее.&lt;/p&gt;
-&lt;p&gt;Что это значит?&lt;/p&gt;
-&lt;p&gt;«Язык разметки» — это просто набор соглашений, правил.&lt;/p&gt;
-&lt;p&gt;Допустим, что вы общаетесь с другом по СМС. В них нельзя сделать текст жирным или наклонным. Вы договариваетесь с другом: если я пишу &lt;em&gt;что-то&lt;/em&gt; вот так между звездочками, то считай, что это наклонный текст. А если я пишу &lt;strong&gt;что-то&lt;/strong&gt; между двумя звездочками, то считай, что это жирный текст. Вы придумали правила.&lt;/p&gt;
-&lt;p&gt;Markdown — это набор подобных правил.&lt;/p&gt;
-&lt;p&gt;Правила понятны разным программам и сайтам. Например, «Вопросы и ответы» в уроках на Хекслете поддерживают Markdown. Это значит, что вы можете писать туда тексты по правилам Markdown, а после нажатия «Отправить» разметка станет реальной: текст в одинарных звездочках станет наклонным, текст в двойных звездочках станет жирным и так далее. Это конвертация из Markdown в HTML.
-Зачем это нужно?&lt;/p&gt;
-&lt;p&gt;Для добавления разметки туда, где невозможна реальная разметка. Например, в простом текстовом файле или в тех же СМС, где невозможно выделение жирным, создание заголовков, выделение цитат и пр.
-Для более удобного написания текстов для последующей конвертации в HTML или другие форматы.&lt;/p&gt;
-&lt;p&gt;Синтаксис Markdown&lt;/p&gt;
-&lt;p&gt;Это краткий справочник основных элементов синтаксиса Markdown. Единого стандарта не существует и разные версии Markdown могут отличаться в деталях. Но базовые элементы из списка ниже поддерживаются во всех стандартах.
-Выделение текста&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Этот текст будет наклонным (курсив)&lt;/em&gt;
-&lt;em&gt;Этот текст будет наклонным (курсив)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Этот текст будет жирным&lt;/strong&gt;
-&lt;strong&gt;Этот текст будет жирным&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Можно &lt;strong&gt;вставлять&lt;/strong&gt; один тип в другой&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Ссылки&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://hexlet.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hexlet.io&lt;/a&gt; — текст простой ссылки станет кликабельной ссылкой автоматически&lt;/p&gt;
-&lt;p&gt;Ссылкой можно сделать любой текст:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://hexlet.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Это ссылка на Хекслет&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Цитата&lt;/p&gt;
+      <description>&lt;p&gt;Markdown is a text markup language. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.&lt;/p&gt;
+&lt;p&gt;What does it mean?&lt;/p&gt;
+&lt;p&gt;A &amp;ldquo;markup language&amp;rdquo; is simply a set of conventions, rules.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s say you&amp;rsquo;re texting a friend. They cannot make text bold or italic. You agree with a friend: if I write &lt;em&gt;something&lt;/em&gt; like this between the asterisks, then consider it as italic text. And if I write &lt;strong&gt;something&lt;/strong&gt; between two asterisks, then consider that this is bold text. You made up the rules.&lt;/p&gt;
+&lt;p&gt;Markdown is a set of such rules.&lt;/p&gt;
+&lt;p&gt;The rules are clear to different programs and sites. For example, the &amp;ldquo;Questions and Answers&amp;rdquo; in the Hexlet lessons support Markdown. This means that you can write texts there according to Markdown rules, and after clicking “Submit”, the markup will become real: text in single asterisks will become italic, text in double asterisks will become bold, and so on. This is the conversion from Markdown to HTML.
+Why is this needed?&lt;/p&gt;
+&lt;p&gt;To add markup where no real markup is possible. For example, in a simple text file or in the same SMS, where it is impossible to bold, create headings, highlight quotes, etc.
+For more convenient writing of texts for subsequent conversion to HTML or other formats.&lt;/p&gt;
+&lt;p&gt;Markdown Syntax&lt;/p&gt;
+&lt;p&gt;This is a quick reference to the basic elements of Markdown syntax. There is no single standard, and different versions of Markdown may differ in details. But the basic elements from the list below are supported in all standards.
+Text selection&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This text will be italicized&lt;/em&gt;
+&lt;em&gt;This text will be italic (italic)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This text will be bold&lt;/strong&gt;
+&lt;strong&gt;This text will be bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can &lt;strong&gt;insert&lt;/strong&gt; one type into another&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Links&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexlet.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hexlet.io&lt;/a&gt; - the text of a simple link will become a clickable link automatically&lt;/p&gt;
+&lt;p&gt;You can make any text a link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hexlet.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is a Hexlet link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quote&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Это мудрая цитата
-Мудрого человека.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s a wise quote
+wise man.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Картинки&lt;/p&gt;
+&lt;p&gt;Images&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -145,28 +168,31 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/assets/images/markdown/markdown.png&#34; alt=&#34;Это опциональный alt-текст&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/assets/images/markdown/markdown.png&#34; alt=&#34;This is optional alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Списки&lt;/p&gt;
-&lt;p&gt;Непронумерованный список:&lt;/p&gt;
+&lt;p&gt;Lists&lt;/p&gt;
+&lt;p&gt;Unnumbered list:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Пункт&lt;/li&gt;
-&lt;li&gt;Еще один пункт
+&lt;li&gt;Paragraph
+*One more item
 &lt;ul&gt;
-&lt;li&gt;Подпункт&lt;/li&gt;
-&lt;li&gt;Еще один подпункт&lt;/li&gt;
+&lt;li&gt;Subparagraph&lt;/li&gt;
+&lt;li&gt;Another sub-item&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Пронумерованный список:&lt;/p&gt;
+&lt;p&gt;Numbered list:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Пункт&lt;/li&gt;
-&lt;li&gt;Еще один пункт&lt;/li&gt;
-&lt;li&gt;Подпункт&lt;/li&gt;
-&lt;li&gt;Еще один подпункт&lt;/li&gt;
+&lt;li&gt;Item&lt;/li&gt;
+&lt;li&gt;One more point
+&lt;ol&gt;
+&lt;li&gt;Subparagraph&lt;/li&gt;
+&lt;li&gt;One more subparagraph&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;В пронумерованном списке можно использовать любые числа — это не важно. При конвертации в HTML или другой формат числа станут правильными и последовательными (1, 2, 3 и т.д.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You can use any numbers in a numbered list - it doesn&amp;rsquo;t matter. When converted to HTML or another format, the numbers will become correct and consistent (1, 2, 3, etc.).&lt;/p&gt;
 </description>
     </item>
     
@@ -206,29 +232,29 @@
       <link>https://example.com/post/git/</link>
       <pubDate>Fri, 17 Mar 2023 20:06:43 +0300</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;
-Этот пост познакомит вас с системой контроля версий. Вначале изучим основы систем контроля версий, затем перейдём к тому, как запустить Git на ОС и окончательно настроить для работы. В конце получим окончательно настроенную для работы систему.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Содержание&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;
+This post will introduce you to the version control system. We will first learn the basics of version control systems, then move on to how to run Git on the OS and finally configure it to work. In the end, we get the system finally configured for operation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;О системе контроля версий&lt;/li&gt;
-&lt;li&gt;Локальные системы контроля версий&lt;/li&gt;
-&lt;li&gt;Централизованные системы контроля версий&lt;/li&gt;
-&lt;li&gt;Распределённые системы контроля версий&lt;/li&gt;
+&lt;li&gt;About the version control system&lt;/li&gt;
+&lt;li&gt;Local version control systems&lt;/li&gt;
+&lt;li&gt;Centralized version control systems&lt;/li&gt;
+&lt;li&gt;Distributed version control systems&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;О системе контроля версий&lt;/p&gt;
-&lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
-&lt;p&gt;Если вы графический или web-дизайнер и хотите сохранить каждую версию изображения или макета (скорее всего, захотите), система контроля версий (далее VCS) — как раз то, что нужно. Она позволяет вернуть файлы к состоянию, в котором они были до изменений, вернуть проект к исходному состоянию, увидеть изменения, увидеть, кто последний менял что-то и вызвал проблему, кто поставил задачу и когда и многое другое. Использование VCS также значит в целом, что, если вы сломали что-то или потеряли файлы, вы спокойно можете всё исправить. В дополнение ко всему вы получите всё это без каких-либо дополнительных усилий.&lt;/p&gt;
-&lt;p&gt;Локальные системы контроля версий&lt;/p&gt;
-&lt;p&gt;Многие люди в качестве метода контроля версий применяют копирование файлов в отдельный каталог (возможно даже, каталог с отметкой по времени, если они достаточно сообразительны). Данный подход очень распространён из-за его простоты, однако он невероятно сильно подвержен появлению ошибок. Можно легко забыть в каком каталоге вы находитесь и случайно изменить не тот файл или скопировать не те файлы, которые вы хотели.&lt;/p&gt;
-&lt;p&gt;Для того, чтобы решить эту проблему, программисты давным-давно разработали локальные VCS с простой базой данных, которая хранит записи о всех изменениях в файлах, осуществляя тем самым контроль ревизий.&lt;/p&gt;
-&lt;p&gt;Одной из популярных VCS была система RCS, которая и сегодня распространяется со многими компьютерами. RCS хранит на диске наборы патчей (различий между файлами) в специальном формате, применяя которые она может воссоздавать состояние каждого файла в заданный момент времени.&lt;/p&gt;
-&lt;p&gt;Централизованные системы контроля версий&lt;/p&gt;
-&lt;p&gt;Следующая серьёзная проблема, с которой сталкиваются люди, — это необходимость взаимодействовать с другими разработчиками. Для того, чтобы разобраться с ней, были разработаны централизованные системы контроля версий (Centralized Version Control System, далее CVCS). Такие системы, как CVS, Subversion и Perforce, используют единственный сервер, содержащий все версии файлов, и некоторое количество клиентов, которые получают файлы из этого централизованного хранилища. Применение CVCS являлось стандартом на протяжении многих лет.&lt;/p&gt;
-&lt;p&gt;Такой подход имеет множество преимуществ, особенно перед локальными VCS. Например, все разработчики проекта в определённой степени знают, чем занимается каждый из них. Администраторы имеют полный контроль над тем, кто и что может делать, и гораздо проще администрировать CVCS, чем оперировать локальными базами данных на каждом клиенте.&lt;/p&gt;
-&lt;p&gt;Несмотря на это, данный подход тоже имеет серьёзные минусы. Самый очевидный минус — это единая точка отказа, представленная централизованным сервером. Если этот сервер выйдет из строя на час, то в течение этого времени никто не сможет использовать контроль версий для сохранения изменений, над которыми работает, а также никто не сможет обмениваться этими изменениями с другими разработчиками. Если жёсткий диск, на котором хранится центральная БД, повреждён, а своевременные бэкапы отсутствуют, вы потеряете всё — всю историю проекта, не считая единичных снимков репозитория, которые сохранились на локальных машинах разработчиков. Локальные VCS страдают от той же самой проблемы: когда вся история проекта хранится в одном месте, вы рискуете потерять всё.&lt;/p&gt;
-&lt;p&gt;Распределённые системы контроля версий&lt;/p&gt;
-&lt;p&gt;Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.&lt;/p&gt;
-&lt;p&gt;Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.&lt;/p&gt;
+&lt;p&gt;About the version control system&lt;/p&gt;
+&lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to revert to a specific version later. For file versioning, this book will use software source code as an example, although you can actually use versioning for just about any type of file.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re a graphic or web designer and want to save every version of an image or layout (most likely you will), a version control system (hereinafter referred to as VCS) is just what you need. It allows you to return files to the state they were before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using VCS also generally means that if you break something or lose files, you can easily fix it. In addition to everything, you will get all this without any additional effort.&lt;/p&gt;
+&lt;p&gt;Local version control systems
+Many people use copying files into a separate directory as a version control method (perhaps even a timestamped directory, if they&amp;rsquo;re smart enough). This approach is very common due to its simplicity, but it is incredibly error prone. It&amp;rsquo;s easy to forget which directory you&amp;rsquo;re in and accidentally change the wrong file or copy the wrong files.&lt;/p&gt;
+&lt;p&gt;To solve this problem, programmers long ago developed local VCSs with a simple database that keeps a record of all changes to files, thus providing revision control.&lt;/p&gt;
+&lt;p&gt;One popular VCS was the RCS system, which is still distributed with many computers today. RCS stores sets of patches (differences between files) on disk in a special format, using which it can recreate the state of each file at a given point in time.&lt;/p&gt;
+&lt;p&gt;Centralized version control systems&lt;/p&gt;
+&lt;p&gt;The next big problem people face is the need to interact with other developers. In order to deal with it, centralized version control systems (Centralized Version Control System, hereinafter CVCS) were developed. Systems such as CVS, Subversion, and Perforce use a single server that holds all versions of files, and a number of clients that retrieve files from this centralized repository. The use of CVCS has been the standard for many years.&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local VCS. For example, all project developers know to some extent what each of them does. Administrators have full control over who can do what, and it&amp;rsquo;s much easier to administer CVCS than it is to manage local databases on each client.
+Despite this, this approach also has serious disadvantages. The most obvious downside is the single point of failure represented by the centralized server. If that server goes down for an hour, during that time no one will be able to use version control to save the changes they are working on, and no one will be able to share those changes with other developers. If the hard disk where the central database is stored is damaged and there are no timely backups, you will lose everything—the entire history of the project, not counting the single snapshots of the repository that were saved on the local machines of the developers. Local VCSs suffer from the same problem: when all project history is stored in one place, you risk losing everything.&lt;/p&gt;
+&lt;p&gt;Distributed version control systems&lt;/p&gt;
+&lt;p&gt;This is where Distributed Version Control System (DVCS) comes into play. In DVCS (such as Git, Mercurial, Bazaar or Darcs), clients don&amp;rsquo;t just download a snapshot of all files (the state of the files at a particular point in time)—they copy the entire repository. In this case, if one of the servers through which the developers communicated dies, any client repository can be copied to another server to continue working. Each copy of the repository is a complete backup of all data.&lt;/p&gt;
+&lt;p&gt;Moreover, many DVCSs can interact with multiple remote repositories at the same time, so you can work with different groups of people using different approaches at the same time within the same project.&lt;/p&gt;
 </description>
     </item>
     
@@ -416,7 +442,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-278193456&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-937628541&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -426,7 +452,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-278193456&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-937628541&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
